@@ -9,14 +9,14 @@ Convert into military time 2230 and printout.
 
 ###2.Grader 
 Calculate points (keyboard input) into grade system:
- 90 < = A
- 80 < = B
- 70 < = C
+ 90 < = A  
+ 80 < = B  
+ 70 < = C  
  60 < = D
 
 **Advanced** - If you divide the points by 10 and take the reminder (1-9), calculate:  
-  1-3 = minus (add a – to grade above and print out in results)
-  4-6 = do nothing
+  1-3 = minus (add a – to grade above and print out in results)  
+  4-6 = do nothing  
   7-9 = plus (add a + to grade above and print out in results)
 
 *Note:*  Use else if, elif.  
