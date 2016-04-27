@@ -30,5 +30,6 @@ This project involves writing a program that simulates rolling dice. When the pr
 
 *Note:*  Printout the menu choices, take shape selection.  Use if statement.  
 
-###5.Checkout cart:  take input from user on how many widget A ($5.29), widget B ($29.33), widget C ($72.45) to purchase.  Print out items bought and total cost, which includes tax at 8.25% and $3.45 shipping charge.  Total cost should be money format.
+###5.Checkout cart:  
+Take input from user on how many widget A ($5.29), widget B ($29.33), widget C ($72.45) to purchase.  Print out items bought and total cost, which includes tax at 8.25% and $3.45 shipping charge.  Total cost should be money format.
 
