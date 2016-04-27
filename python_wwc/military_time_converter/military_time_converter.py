@@ -5,7 +5,7 @@ class MilitaryTimeConverter():
 
     hour = 1;    # Hour boundaries: 1-12
     minute = 0;  # Minute boundaries: 0 - 59
-    dayType = 0; # 0 > AM | 1> PM
+    dayType = 10; # 1- AM | 2- PM
 
     milit_hour = 0;
     milit_min  = 0;
