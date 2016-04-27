@@ -14,7 +14,7 @@ class MilitaryTimeConverter():
         self;
 
     def hour(self, hour):
-        if h
+        #if h
         self.hour = hour
 
         self.hour = self.sanitize_payload("HOUR", hour)
